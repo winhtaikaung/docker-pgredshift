@@ -113,6 +113,7 @@ COPY [ \
 	"sql/00_extensions.sql", \
 	"sql/00_stl_tables.sql", \
 	"sql/00_stv_tables.sql", \
+	"sql/00_svv_tables.sql", \
 	"sql/01_functions.sql", \
 	"/docker-entrypoint-initdb.d/"]
 
